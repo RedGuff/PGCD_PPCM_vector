@@ -77,7 +77,7 @@ int main() {
     cout << "PPCM(a, b) = " << "PPCM(" << a << "," << b << ") = " << PPCM(a, b) << endl << endl;
     display(Matrix);
     cout  << endl;
-vector <int>    MatrixTemp = Matrix;
+vector <int>    MatrixTemp = Matrix; // PGCD and PPCM will destroy the matrix.
     cout << "PGCD(Matrix) = " << PGCD(MatrixTemp) << endl;
     MatrixTemp = Matrix;
  cout << "PPCM(Matrix) = " << PPCM(MatrixTemp) << endl;

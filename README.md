@@ -1,2 +1,2 @@
 # PGCD_PPCM_vector
-PGCD et PPMC de vecteur. Tutoriel, terminé.
+PGCD et PPCM de vecteur. Tutoriel, terminé.
